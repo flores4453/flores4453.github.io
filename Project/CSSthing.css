@@ -1,0 +1,55 @@
+p {
+  color: darkgray;
+  font-size: 16px;
+}
+h4 {
+  color: blue;
+  font-size: 30px;
+}
+h1 {
+	
+  font-size: 40px;
+}
+h3 {
+	
+  font-size: 20px;
+  color:gray;
+}
+
+h5 {
+	
+  font-size: 12px;
+  color: gray;
+}
+p2 {
+	font-size: 10px;
+}
+body {
+	background-color: #FBEEC1;
+}
+aside {
+	align: right;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button2 {
+  border: none;
+  color: none;
+  padding: none;
+  text-align: none;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: none;
+  cursor: pointer;
+}
